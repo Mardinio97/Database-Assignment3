@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="apache.ibatis.core" type="repository">
+    <properties maven-id="org.apache.ibatis:ibatis-core:3.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/ibatis-core-3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
